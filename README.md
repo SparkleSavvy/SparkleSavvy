@@ -1,6 +1,4 @@
 - 👋 Hi, I'm @DEADS1KE.
-- 👀 I'm interested in games, music, programming
-- 🌱 I'm currently studying music
-- 📫 How to contact me: Discord: deads1ke (Russian only)
-- 😄 Pronous: he
-- ⚡ Interesting fact: I am a very kind and shy person.
+- 👀 I'm interested in games, music, programming and sports.
+- 🌱 I'm currently looking for cool tools for windows.
+- ✌️ Interesting fact: I am a very shy person.
