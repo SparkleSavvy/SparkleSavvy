@@ -1,7 +1,5 @@
 <h1 align="center">🐳 SparkleSavvy / newbie coder 🦋</h1>
 
-> I have been feeling unwell and depressed for the past 2-3 years, so updates and changes in my projects may be delayed. I am truly sorry.
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,cloudflare,py,nodejs,express,bash,tailwind,qt,html,js,cpp&theme=dark" />
