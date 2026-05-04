@@ -7,11 +7,14 @@
 </p>
 
 <div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=SparkleSavvy&theme=gruvbox" />
+ <a href="https://github.com/Pranesh-2005/Github-readme-stats-fast">
+   <img height=165 src="https://github-readme-stats-fast.vercel.app/api?username=SparkleSavvy&theme=gruvbox&show_icons=true&hide_border=true&border_radius=20&card_width=350" />
  </a>
- <a href="https://github.com/anuraghazra/convoychat">
-   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SparkleSavvy&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+ <a href="https://github.com/Pranesh-2005/Github-readme-stats-fast">
+   <img height=175 src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SparkleSavvy&layout=compact&theme=gruvbox&langs_count=8&hide_border=true&border_radius=20&card_width=320" />
+ </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com">
+   <img height=175 src="https://github-readme-streak-stats.herokuapp.com/?user=SparkleSavvy&theme=gruvbox&hide_border=true&border_radius=20" />
  </a>
 </div>
 
